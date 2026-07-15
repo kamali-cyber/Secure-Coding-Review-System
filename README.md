@@ -126,6 +126,10 @@ Plain Text Password Handling| Medium| Resolved
 
 ---
 
+## 🌐 Live Demo
+
+🔗 **Live Demo:** [Secure Coding Review System](https://secure-coding-review-s3dj.bolt.host)
+
 ##Project Outcome
 
 This project demonstrates the process of identifying, documenting, and remediating security vulnerabilities in a web application while promoting secure coding practices and application security awareness.
